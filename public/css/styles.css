@@ -142,7 +142,7 @@ main h3 {
 .producto_descrip .p-content {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: space-between;
 }
 
 .producto_descrip p, .producto_descrip h4 {
